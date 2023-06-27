@@ -1,6 +1,5 @@
 ![Header](githubheader.png)
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papryczekk&label=Profile%20views&color=0e75b6&style=flat" alt="papryczekk" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
