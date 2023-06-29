@@ -1,6 +1,6 @@
 ![Header](githubheader.png)
 # 💫 About Me:
-🌱 I’m currently learning C#, Pytohn, JavaScript, CSS<br><br>📫 How to reach me p.tarka33@gmail.com
+🌱 I’m currently learning C#, Python, JavaScript, CSS<br><br>📫 How to reach me p.tarka33@gmail.com
 
 
 ## 🌐 Socials:
